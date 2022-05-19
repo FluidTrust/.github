@@ -3,6 +3,7 @@
 ## Quick Summary
 * **Funded by:** 	DFG - Deutsche Forschungsgemeinschaft (grant number: HE8596/1-1), Czech Science Foundation (GACR) (grant number: 20-24814J) 
 * **Principal Investigators:** Robert Heinrich, Petr Hnetynka
+* **Members:** Tomas Bures, Sebastian Hahner, Robert Heinrich, Petr Hnetynka, Stephan Seifermann, Maximilian Walter
 
 ## Research Topic
 
